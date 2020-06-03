@@ -1,2 +1,2 @@
 # NextLevelWeek
-Course Offered by RocketSeate - 2020 #NLW
+Course Offered by RocketSeat - 2020 #NLW
